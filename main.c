@@ -16,7 +16,7 @@ void main() {
     lcd_clear();
 
    
-    relay = 1;  // T?t relay
+    relay = 0;  // tat relay 
 
     while (1) {
         smoke_detected = smoke_sensor;  // Doc trang thai cam bien khoi
